@@ -142,7 +142,7 @@
 .admirar{
     width: 100%;
     height: 1100px;
-    background-color: #f59b25;
+    background-color: #111;
 }
 
 .admirar h1{
@@ -196,32 +196,32 @@
    .skill-name{
     text-align: left;
     margin: 15px 0;
-    color: #f59b25;
+    color: #111;
     font-family: 'Josefin Sans', sans-serif;
    }
     
    .learn{ width: 100%;
-    background-color: #f59b25;
+    background-color: #111;
     border-radius: 25px;
    }
    .back-end {
     width: 80%;
-    background-color: #f59b25;
+    background-color: #111;
     border-radius: 25px;
    }
    .front-end {
     width: 50%;
-    background-color: #f59b25;
+    background-color: #111;
     border-radius: 25px;
    }
    .testing {
     width: 23%;
-    background-color: #f59b25;
+    background-color: #111;
     border-radius: 25px;
    }
    .design {
     width: 14%;
-    background-color: #f59b25;
+    background-color: #111;
     border-radius: 25px;
    }
   
@@ -236,6 +236,6 @@
    }
 
    .fazer{
-    color: #f59b25;
+    color: #111;
     font-family: 'Josefin Sans', sans-serif;
    }
