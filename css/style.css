@@ -1,0 +1,241 @@
+.custom-shape-divider-bottom-1647293004 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1647293004 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+}
+
+.custom-shape-divider-bottom-1647293004 .shape-fill {
+    fill: #fff;
+}
+
+.custom-shape-divider-top-1647334038 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1647334038 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1647334038 .shape-fill {
+    fill: #FFFFFF;
+    box-shadow: 3px 3px 3px red;
+}
+
+.custom-shape-divider-bottom-1647344430 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1647344430 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1647344430 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.about{
+	width: 100%;
+	padding: 100px 0px;
+	background-color: #fff;
+}
+.about img{
+	height: auto;
+	width: 430px;
+    border-radius: 10%;
+}
+.about-text{
+	width: 550px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.main{
+	width: 1130px;
+	max-width: 95%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.about-text h2{
+	color: black;
+	font-size: 75px;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.about-text h5{
+	color: black;
+	letter-spacing: 2px;
+	font-size: 22px;
+	margin-bottom: 25px;
+	text-transform: capitalize;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.about-text p{
+	color: black;
+	letter-spacing: 1px;
+	line-height: 28px;
+	font-size: 18px;
+	margin-bottom: 45px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.img-primaria{
+    background-color: #fff;
+    max-width: 400px;
+    margin-left: 850px;
+    top: 50px;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: inset 3px 3px 3px rgba(0, 0, 0, 0.459);
+    border: 2px solid transparent;
+    z-index: 1;
+}
+
+.logos{
+    width: 40px;
+    height: 40px;
+}
+
+.logotipo{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    left: 81px;
+    top: -80px;
+}
+
+.icones img{
+    position: relative;
+    left: 81px;
+    top: 510px;
+    padding: 10px;
+    z-index: 1;
+}
+
+.admirar{
+    width: 100%;
+    height: 1100px;
+    background-color: #f59b25;
+}
+
+.admirar h1{
+    text-align: center;
+    color: #fff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    margin-top: 170px;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+    width: 100%;
+    height: 1200px;
+    top: -80px;
+    position: absolute;
+  }
+
+  .section{
+    text-align: center;
+    padding: 50px 80px;
+    height: 500vh;
+   }
+    
+   .section-light{
+    background-color: #E8E8E8;
+    color:#666;
+   }
+    
+   .section-dark{
+    background-color:#fff;
+    color: #ddd;
+   }
+
+   /* skills */
+    
+   .skill-container {
+    width: 100%;
+    background-color: rgb(214, 212, 212);
+    border-radius: 25px;
+   }
+    
+   .skills {
+    text-align: right;
+    padding-right: 20px;
+    line-height: 40px;
+    color: white;
+   }
+    
+   .skill-name{
+    text-align: left;
+    margin: 15px 0;
+    color: #f59b25;
+    font-family: 'Josefin Sans', sans-serif;
+   }
+    
+   .learn{ width: 100%;
+    background-color: #f59b25;
+    border-radius: 25px;
+   }
+   .back-end {
+    width: 80%;
+    background-color: #f59b25;
+    border-radius: 25px;
+   }
+   .front-end {
+    width: 50%;
+    background-color: #f59b25;
+    border-radius: 25px;
+   }
+   .testing {
+    width: 23%;
+    background-color: #f59b25;
+    border-radius: 25px;
+   }
+   .design {
+    width: 14%;
+    background-color: #f59b25;
+    border-radius: 25px;
+   }
+  
+   .back{
+    width: 900px;
+    height: 700px;
+    background-color: #fff;
+    margin-left: 222px;
+    top: 235px;
+    border-radius: 25px;
+    position: absolute;
+   }
+
+   .fazer{
+    color: #f59b25;
+    font-family: 'Josefin Sans', sans-serif;
+   }
